@@ -1,3 +1,5 @@
+# ft_hangouts
+
 ### Introduction
 For this project, you will need to make an Android application to create a
 contact and dialog with SMS.
